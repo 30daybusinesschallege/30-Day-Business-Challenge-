@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30-Day Business Challenge</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the 30-Day Business Challenge</h1>
+        <p>Launch your first profitable business in just one month!</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#challenge">The Challenge</a>
+        <a href="#resources">Resources</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container" id="about">
+        <h2>About the Challenge</h2>
+        <p>The 30-Day Business Challenge is a step-by-step guide designed to help aspiring entrepreneurs launch and grow their first profitable business in just 30 days.</p>
+    </div>
+    <div class="container" id="challenge">
+        <h2>The Challenge</h2>
+        <p>Each day, you’ll complete a simple but impactful business-building task. By the end of 30 days, you’ll have a fully functioning business!</p>
+    </div>
+    <div class="container" id="resources">
+        <h2>Resources</h2>
+        <p>Get access to exclusive tools, templates, and expert insights to accelerate your business growth.</p>
+    </div>
+    <div class="container" id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions? Reach out to us at <a href="mailto:contact@30daybusinesschallenge.com">contact@30daybusinesschallenge.com</a></p>
+    </div>
+    <footer>
+        <p>&copy; 2024 30-Day Business Challenge. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
